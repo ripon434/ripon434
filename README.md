@@ -1,3 +1,3 @@
-# ripon434
+# ripon
 # my-second-repo
 # my-second-repo
